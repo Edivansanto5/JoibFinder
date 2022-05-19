@@ -50,4 +50,7 @@ nav.container{
 /*levando alista la pra direita da tela*/
 .nav-container ul{
     float: right;
+    height: 100px;
+    line-height: 100px;
+    margin: 0;
 }

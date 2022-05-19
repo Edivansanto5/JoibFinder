@@ -62,5 +62,8 @@ nav.container{
 .nav-container li a {
     text-decoration: none;
     color: #666;
-    transition: .5s;
+    transition: .4s;
+}
+.nav-container li a:hover {
+    color: #3381f3;
 }

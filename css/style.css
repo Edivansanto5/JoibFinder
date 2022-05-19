@@ -54,3 +54,6 @@ nav.container{
     line-height: 100px;
     margin: 0;
 }
+.nav-container li{
+    list-style: none;
+}

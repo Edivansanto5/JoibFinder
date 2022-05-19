@@ -59,3 +59,6 @@ nav.container{
     float: left;
     margin: 0 15px;
 }
+.nav-container li a {
+    text-decoration: none;
+}
